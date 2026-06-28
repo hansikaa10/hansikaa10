@@ -17,7 +17,7 @@ I enjoy building projects that combine programming with real-world problem solvi
 * **Adaptive AI Interview Agent**
   A Python and Streamlit application that simulates technical interviews by evaluating conceptual answers using semantic similarity, tracking candidate performance, and generating interview reports.
 
-(More projects will be added as I continue learning.) 
+(More projects will be added as I continue learning.)
 
 ## Technologies I've worked with
 
