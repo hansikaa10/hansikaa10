@@ -29,6 +29,7 @@ An Arduino-based embedded systems project that monitors gas concentration, tempe
 **Tech Stack:** Arduino (C++), DHT22, MQ-2 Gas Sensor, I2C LCD, Wokwi
 
 🔗 https://github.com/hansikaa10/arduino-environmental-monitoring-system
+
 (More projects will be added as I continue learning.)
 
 ## Technologies I've worked with
