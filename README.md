@@ -1,6 +1,7 @@
 # Hi, I'm Hansika 👋
 
 📍 **Welham Girls' School, Dehradun, India**
+
 🎓 **Applying for Undergraduate Programs (2027) — Artificial Intelligence, Machine Learning & Data Science**
 
 I'm a Grade 12 student from India with a growing interest in **Artificial Intelligence, Machine Learning, Data Science, and Computer Science**.
