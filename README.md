@@ -14,9 +14,21 @@ I enjoy building projects that combine programming with real-world problem solvi
 
 ## Featured Projects
 
-* **Adaptive AI Interview Agent**
-  A Python and Streamlit application that simulates technical interviews by evaluating conceptual answers using semantic similarity, tracking candidate performance, and generating interview reports.
+### 🤖 Adaptive AI Interview Agent
+An AI-powered interview simulator that personalizes technical interviews using resume analysis, NLP-based semantic answer evaluation, adaptive questioning, and automated PDF performance reports.
 
+**Tech Stack:** Python, Streamlit, Sentence Transformers, Scikit-learn, PDFMiner, FPDF
+
+🔗 https://github.com/hansikaa10/ai-interview-agent
+
+---
+
+### 🌡️ Arduino Environmental Monitoring System
+An Arduino-based embedded systems project that monitors gas concentration, temperature, and humidity using multiple sensors. The system provides real-time LCD feedback, buzzer alerts for unsafe gas levels, and includes an interactive Wokwi simulation.
+
+**Tech Stack:** Arduino (C++), DHT22, MQ-2 Gas Sensor, I2C LCD, Wokwi
+
+🔗 https://github.com/hansikaa10/arduino-environmental-monitoring-system
 (More projects will be added as I continue learning.)
 
 ## Technologies I've worked with
